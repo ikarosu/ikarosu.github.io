@@ -1,2 +1,2 @@
-[page1](/page/a)
+[datepicker](/datepicker/)
 [page2](/page2)
