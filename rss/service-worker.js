@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rss/precache-manifest.f6eb3414523368ffae5d2ae06f48f475.js"
+  "/rss/precache-manifest.62c904175b5017a33a96edfecfaea7cd.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "laiyue"});
+workbox.core.setCacheNameDetails({prefix: "aki-reader"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
