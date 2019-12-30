@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rss/precache-manifest.64f38f1d51f5e8bfef6fb2ca7ae81fb8.js"
+  "/rss/precache-manifest.0f09a6b3b5c140aed79dc32f18fd2598.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "aki-reader"});
